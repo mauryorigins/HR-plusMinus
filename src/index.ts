@@ -1,6 +1,6 @@
 /* eslint-disable no-return-assign */
 
-// Source: https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
+// Source: https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true
 import plusMinus from './plusMinus';
 
 function main() {
